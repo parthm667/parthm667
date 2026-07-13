@@ -34,5 +34,4 @@ Research wise, I've built computational models of light-particle interactions fo
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=parthm667&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" height="150"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=parthm667&layout=compact&hide_border=true" alt="Top languages" height="150"/>
 </p>
