@@ -6,7 +6,7 @@ I study Computer Science and Applied Mathematics at the University of Maryland, 
 
 ## 🚀 Projects
 
-🛩️ UAVSuspensionSystem — Monte Carlo optimization of landing-gear suspension for a 140 kg paramotor UAV, built during research at the MASS Lab at UT Austin. Parallelized the simulation pipeline for a 6.2x speedup, making it practical to sweep thousands of spring-damper combinations under randomized touchdown conditions. Presented at the 2026 AIAA Aviation Forum (DOI: 10.2514/6.2026-4336).
+🛩️ UAVSuspensionSystem — Monte Carlo optimization of landing-gear suspension for a 140 kg paramotor UAV, built during research at the MASS Lab at UT Austin. Parallelized the simulation pipeline using OpenMP and C++, making it practical to sweep millions of trials under stochastic touchdown conditions. Presented at the 2026 AIAA Aviation Forum (DOI: 10.2514/6.2026-4336).
 
 ⚡ crypto-hft — Collaborative infrastructure for high-frequency crypto trading, where the interesting problems are the ones measured in microseconds.
 
