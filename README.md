@@ -2,8 +2,6 @@ Hi, I'm Parth 👋
 
 I study Computer Science and Applied Mathematics at the University of Maryland, and I'm currently a SWE intern at Corsha, where I work on backend development for OT authentication systems. Most of what I build sits where performance and math meet, so I keep ending up in simulation-heavy research and low-latency systems, with the occasional robot in between.
 
-## 🛠️ Tech I Work With
-
 ## 🚀 Projects
 
 🛩️ UAV Research — Monte Carlo optimization of landing-gear suspension for a 140 kg paramotor UAV, built during research at the MASS Lab at UT Austin. Parallelized the simulation pipeline using OpenMP and C++, making it practical to sweep millions of trials under stochastic touchdown conditions. Presented at the 2026 AIAA Aviation Forum (DOI: 10.2514/6.2026-4336).
