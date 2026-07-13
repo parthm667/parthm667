@@ -12,9 +12,9 @@ I study Computer Science and Applied Mathematics at the University of Maryland, 
 
 🗺️ nj-hin-generator — Generates High Injury Networks for New Jersey municipalities, so smaller towns can apply for SS4A safety grants without hiring consultants. Runs Poisson significance testing on state crash data, layers in equity overlays from the CDC Social Vulnerability Index, and serves everything through a React and Leaflet map backed by FastAPI and PostGIS.
 
-🤖 Autonomous Microbot — An autonomous maze-navigating robot running cascaded PID control on fused odometry and IMU data (private repo dm for access), with an A* planner that handles collision checks and turn-cost optimization. Placed 3rd at the 2024 Science Olympiad National Tournament.
+🤖 Autonomous Microbot — An autonomous maze-navigating robot running cascaded PID control on fused odometry and IMU data (private repo, dm for access), with an A* planner that handles collision checks and turn-cost optimization. Placed 3rd at the 2024 Science Olympiad National Tournament.
 
-📊 PolymarketAnalysis — Trader analysis across more than 600,000 Polymarket accounts.
+📊 Polymarket Analysis — Trader analysis across more than 600,000 Polymarket accounts.
 
 💸 Algo Trading - Creating an algorithmic trading strategy to invest my own money (L/S Equities)... 
 
