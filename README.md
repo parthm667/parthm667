@@ -16,6 +16,8 @@ I study Computer Science and Applied Mathematics at the University of Maryland, 
 
 📊 PolymarketAnalysis — Trader analysis across more than 600,000 Polymarket accounts, which is enough data to start asking how prediction markets actually behave.
 
+💸 AlgoTrading - Creating an algorithmic trading strategy to invest my own money (L/S Equities)... 
+
 ## 🔬 Research
 
 Outside of what's on GitHub, I've built computational models of light-particle interactions for circumstellar dust in astronomy research at UMD, developed stochastic simulations of popularity-driven bias in online markets at the Computational Social Dynamics Lab, and tuned literature-classification pipelines across 35,000+ papers at IISER Pune, where getting the metadata clean turned out to be half the work.
