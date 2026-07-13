@@ -31,3 +31,5 @@ Research wise, I've built computational models of light-particle interactions fo
 📧 Email: pmhaske@umd.edu
 
 📸 Photography: parthmhaske.myportfolio.com
+
+🐦 X: @parth_mhas
