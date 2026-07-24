@@ -6,7 +6,7 @@ I study Computer Science and Applied Mathematics at the University of Maryland, 
 
 🛩️ UAV Research — Monte Carlo optimization of landing-gear suspension for a 140 kg paramotor UAV, built during research at the MASS Lab at UT Austin. Parallelized the simulation pipeline using OpenMP and C++, making it practical to sweep millions of trials under stochastic touchdown conditions. Presented at the 2026 AIAA Aviation Forum (DOI: 10.2514/6.2026-4336).
 
-⚡ crypto-hft — Collaborative infrastructure for high-frequency crypto trading, tick-to-order ~100 ns (excluding API latency).
+⚡ crypto-hft — Collaborative infrastructure for high-frequency crypto trading, tick-to-order ~110 ns (excluding API latency).
 
 🗺️ nj-hin-generator — Generates High Injury Networks for New Jersey municipalities, so smaller towns can apply for SS4A safety grants without hiring consultants. Runs Poisson significance testing on state crash data, layers in equity overlays from the CDC Social Vulnerability Index, and serves everything through a React and Leaflet map backed by FastAPI and PostGIS.
 
