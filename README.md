@@ -22,12 +22,12 @@ Research wise, I've built computational models of light-particle interactions fo
 
 ## 📩 Get in Touch
 
-🌐 Portfolio: parthm667.github.io
+🌐 Portfolio: <https://parthm667.github.io>
 
-💼 LinkedIn: in/parthmhaske667
+💼 LinkedIn: <https://www.linkedin.com/in/parthmhaske667>
 
-📧 Email: pmhaske@umd.edu
+📧 Email: <mailto:pmhaske@umd.edu>
 
-📸 Photography: parthmhaske.myportfolio.com
+📸 Photography: <https://parthmhaske.myportfolio.com>
 
-🐦 X: @parth_mhas
+🐦 X: <https://x.com/parth_mhas>
