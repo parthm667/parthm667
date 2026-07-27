@@ -22,7 +22,7 @@ Research wise, I've built computational models of light-particle interactions fo
 
 ## 📩 Get in Touch
 
-🌐 Portfolio: <https://parthm667.github.io>
+🌐 Portfolio: <https://parth.mhaske.com>
 
 💼 LinkedIn: <https://www.linkedin.com/in/parthmhaske667>
 
