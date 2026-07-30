@@ -14,7 +14,7 @@ Autonomous Microbot — An autonomous maze-navigating robot running cascaded PID
 
 Polymarket Analysis — Trader analysis across more than 600,000 Polymarket accounts.
 
-Algo Trading - Creating an algorithmic trading strategy to invest my own money (L/S Equities)... 
+Algo Trading — Creating an algorithmic trading strategy to invest my own money (L/S Equities)... 
 
 ## Research
 
