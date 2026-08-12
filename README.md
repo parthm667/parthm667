@@ -22,8 +22,6 @@ In terms of my research, I'm currently building computational models of light-pa
 
 ## 📩 Get in Touch
 
-Portfolio: <https://parth.mhaske.com>
-
 LinkedIn: <https://www.linkedin.com/in/parthmhaske667>
 
 Email: <mailto:pmhaske@umd.edu>
