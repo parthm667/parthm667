@@ -1,6 +1,8 @@
 Hello there, I'm Parth
 
-I study Computer Science and Applied Mathematics at the University of Maryland. Previously, I was SWE intern at Corsha, where I worked on backend development for OT authentication systems and I was a Software Engineer at Nuntius (YC S25), where I worked on AI Alignment. Most of what I build sits where performance and math meet, so I keep ending up in simulation-heavy research and low-latency systems, with the occasional robot in between. I'm currently looking for internships during the spring/summer of 2027, so feel free to reach out with any oppurtunities!
+I study Computer Science and Applied Mathematics at the University of Maryland. Previously, I was SWE intern at Corsha, where I worked on backend development for OT authentication systems and I was a Software Engineer at Nuntius (YC S25), where I worked on AI Alignment.
+
+Most of what I build sits where performance and math meet, so I keep ending up in simulation-heavy research and low-latency systems, with the occasional robot in between. I'm currently looking for internships during the spring/summer of 2027, so feel free to reach out with any oppurtunities!
 
 ## Projects
 
