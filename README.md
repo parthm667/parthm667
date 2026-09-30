@@ -8,6 +8,8 @@ UAV Research — Monte Carlo optimization of landing-gear suspension for a 140 k
 
 Crypto HFT — Collaborative infrastructure for high-frequency crypto trading, tick-to-order ~110 ns (excluding API latency).
 
+VIGIL — Assistive navigation system for visually impaired users built around a DJI Tello scout drone and custom haptic smart glasses. Uses YOLO-World and face recognition to locate objects and people, maps them relative to the wearer, and can steer the drone using a 1,446-neuron fruit-fly connectome controller modeled on the fly’s pursuit circuit. Placed 3rd overall out of 268 teams at HackGT 13.
+
 NJ HIN Generator — Generates High Injury Networks for New Jersey municipalities, so smaller towns can apply for SS4A safety grants without hiring consultants. Runs Poisson significance testing on state crash data, layers in equity overlays from the CDC Social Vulnerability Index, and serves everything through a React and Leaflet map backed by FastAPI and PostGIS.
 
 Autonomous Microbot — An autonomous maze-navigating robot running cascaded PID control on fused odometry and IMU data (private repo, dm for access), with an A* planner that handles collision checks and turn-cost optimization. Placed 3rd at the 2024 Science Olympiad National Tournament.
